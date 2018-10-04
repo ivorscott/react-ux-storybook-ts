@@ -12,8 +12,8 @@ yarn run storyboard
 ## production
 
 ```
-yarn run build # build component library (without storybook)
-yarn run build-storybook # staticly serve storybook for the web
+yarn run build  //build component library (without storybook)
+yarn run build-storybook  //staticly serve storybook for the web
 ```
 
 see article: (storybook and typescript)[https://dev.to/swyx/quick-guide-to-setup-your-react--typescript-storybook-design-system-1c51]
